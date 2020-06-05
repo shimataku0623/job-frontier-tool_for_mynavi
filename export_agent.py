@@ -24,7 +24,7 @@ SPREADSHEET_KEY = '1pUWGAsSa11nn0XpMvhDMWATO3ztasDsg9Ud9LNuXwOs'
 workbook = gc.open_by_key(SPREADSHEET_KEY)
 
 def createsheet():
-    d_today = str(datetime.date.today()) + "_rikunavi"
+    d_today = str(datetime.date.today()) + "_rikunavi_agent"
     workbook.add_worksheet(title=d_today, rows=10000, cols=10)
     return d_today
 
