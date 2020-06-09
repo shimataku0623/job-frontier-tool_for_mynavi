@@ -5,6 +5,8 @@ import export
 import requests
 import loop_dif
 import re
-import tkinter
+#import tkinter
 from bs4 import BeautifulSoup
+import main
 
+print("testちゅうううううううう")

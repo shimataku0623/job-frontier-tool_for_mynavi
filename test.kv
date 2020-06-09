@@ -1,0 +1,57 @@
+TextWidget:
+
+
+<MyButton@Button>:
+    font_size: 68
+
+<TextWidget>:
+    BoxLayout:
+        orientation: 'vertical'
+        size: root.size
+
+        # ラベル
+        Label:
+            size_hint_y: 0.7
+            id: label1
+            font_size: 68
+            text: root.text
+            color: root.color
+
+        BoxLayout:
+            size_hint_y: 0.3
+            padding: 20,30,20, 10
+            MyButton:
+                id: button1
+                text: "doda実行"
+                font_size: 32
+                on_press: root.buttonClicked()
+                text_size: self.width-20, self.height-20
+                valign: 'middle'
+                halign: 'center'
+
+            MyButton:
+                id: button2
+                text: "リクナビ実行"
+                font_size: 32
+                on_press: root.buttonClicked2()
+                text_size: self.width-20, self.height-20
+                valign: 'middle'
+                halign: 'center'                
+
+            MyButton:
+                id: button3
+                text: "リクナビエージェント実行"
+                font_size: 32
+                on_press: root.buttonClicked3()
+                text_size: self.width-20, self.height-20
+                valign: 'middle'
+                halign: 'center'
+
+            MyButton:
+                id: button4
+                text: "4"
+                font_size: 32
+                on_press: root.buttonClicked4()
+                text_size: self.width-20, self.height-20
+                valign: 'middle'
+                halign: 'center'
