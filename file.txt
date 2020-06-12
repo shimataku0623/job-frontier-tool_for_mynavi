@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+<html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>求人検索 | IT/Web業界の求人・採用情報に強い転職サイトGreen(グリーン)</title><meta content="職種、業界、勤務地、希望年収、キーワードなどからあなたにあった求人、企業を検索。[1ページ]成長性の高いベンチャー企業から優良企業まで、業界最大級の求人数を掲載中。企業のスカウトも受けられ、60％の方が企業のアプローチから転職。精度の高いレコメンド機能で、あなたの効率的な転職活動をサポートします。" name="Description"/><meta content="転職,求人,転職サイト,求人情報,中途採用,Green,グリーン,エンジニア,Webディレクター,Web業界,IT業界転職,求人,転職サイト,求人情報,中途採用,Green,グリーン,エンジニア,Webディレクター,Web業界,IT業界" name="Keywords"/><meta content="Green UI Team" name="author"/><link href="https://www.green-japan.com/search_key/01?page=1" rel="canonical"/>
+<link href="https://www.green-japan.com/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=2" rel="next"/>
+<meta content="text/javascript" http-equiv="Content-Script-Type"/><meta content="text/css" http-equiv="Content-Style-Type"/><link href="/assets/application-6414a98a4fcac0ba02ac45f5b407d72388f67915efac0c53c8420d0b96da24a2.css" media="screen" rel="stylesheet"/>
+<link href="/assets/mdl/material-design-lite-91f5138709a4d89e7d466bae583bca9b6540c4c561faa1c6013f956df9b39e3d.css" media="screen" rel="stylesheet"/>
+<link href="/assets/modules/modules-c55f27a34963fc966f0693bdeddc116d668aca8df36e295e76e6800199c55a76.css" media="screen" rel="stylesheet"/>
+<link href="/assets/new/green/common-15b5643791df59f0a02488cbd7798b3280e769fdfa634bd371bb4af65a945d7a.css" media="screen" rel="stylesheet"/><script src="/assets/material.min-88fde769459174280119567a418fe25bb46a64b12374b1403c6676a81bfe1625.js"></script><link href="/assets/new/green/search-77ec0abe5d636102dc991e098ae7a9741dda648ea4ab0b7fb20f6dd97b7fdfeb.css" media="screen" rel="stylesheet"/><link href="/assets/jquery/jquery-ui.1.8-03efcbb1f61662fab75aaf94d491b8c53d184c8d0cf1f065ac58e304820add6a.css" media="screen" rel="stylesheet"/><link href="/assets/jquery/jqselectable-863273980dedd348a17d9fb55c5a3fad964855ccdbf98b2e96338b8be76531e4.css" media="screen" rel="stylesheet"/><link href="/assets/jquery/select2-1219ef851cae2a7daff890daf49615a06bd32bf88ac556fb8128d66634bbf4d1.css" media="screen" rel="stylesheet"/><link href="/assets/new/green/card-info-e31dfa692226983c3ff7bd20d104c41b571e21989de5198f6d15e726a0465de7.css" media="screen" rel="stylesheet"/><link href="/assets/mdl/dialog-polyfill-a0296a8c54194b685f67ba793fa62b80a373a6cfcfd4a3c01f33e4299ade5d3f.css" media="screen" rel="stylesheet"/><link href="/assets/mdl/users/top-70642e715350888764ac0cfbdc3d3180b33de0f294a82df1ab3175ea896ecf27.css" media="screen" rel="stylesheet"/><link href="/assets/modules/modules-c55f27a34963fc966f0693bdeddc116d668aca8df36e295e76e6800199c55a76.css" media="screen" rel="stylesheet"/><link href="/assets/mdl/dialog-polyfill-a0296a8c54194b685f67ba793fa62b80a373a6cfcfd4a3c01f33e4299ade5d3f.css" media="screen" rel="stylesheet"/><link href="/assets/print_setting-f0c9685668cea588e65f3c1014f14c104fbe4b60403b63f2783f23e2724f5283.css" media="print" rel="stylesheet"/><script src="/assets/application_old-5ce3a724db4e4940d9ead5de241758114ed82976a0eec02b656c5c842fb20673.js"></script><script src="/assets/new/green/search-e06c72a049aff47eafbaa1457cbc453ea056dba5823d8af4badd0c5b04eacde9.js"></script><script src="/assets/jquery-ui.1.8.min-7356cbc0ad4cead7e996022282382c4f5189f8537e56a135f9c7dca14a147bf1.js"></script><script src="/assets/favorite-942e3f166afba25a864c42d62e202ea4ab7a4aa1cc393078b7ec0d0d1c0f81d3.js"></script><script src="/assets/user_search-36673b893f5ff9149dcfd61bf8a5b953b35c02c8924b1eeed1f29cb009d55326.js"></script><script src="/assets/user_favorite_control-f06e98204849155c443a4f9b0b14e3bc0bcaf18735db5b543f8fd6c963e8a51a.js"></script><script src="/assets/select2.min-feb3744d5226d09aa8662e5d70e4f0952f13cccb0839c0454eefa691938d1c69.js"></script><script src="/assets/gradients-dec2c98c22202b13eda61b87dc8c86724d1560ff7ffc6fe6078941ee206c9b0c.js"></script><script src="/assets/jquery.animateGradient.min-0c7b95f0574065d1b4d2176fa85721fb5d9e8820656b5cd7e54823e5a488bcdd.js"></script><script src="/assets/jquery.bottom-1.0-2fb206af0576470011a59f7f751c451ce3da752f7f3ec9ff52181a30fd0b57d9.js"></script><script src="/assets/scrolltoTop-a43b079be6ea7d32c6e67833b79f6e00c937b527106356f2eef80951f4ac2cc2.js"></script><script src="/assets/dialog-polyfill-bfdb9c4129cc5c4ccfb842f288544d8ccf6abbafc3cd5b93765cfc8cf21493d2.js"></script><script src="/assets/mdl_modal-56bf8f09ff5dd37ace14f1f5d573c17e8331e4182860e5b9369422c15e636abb.js"></script><script src="/assets/user_interview_review-c75cc32ba9798464ec68ff0fd8c15bae6deac72d7347102627ca5677dc13e691.js"></script><script src="/assets/dialog-polyfill-bfdb9c4129cc5c4ccfb842f288544d8ccf6abbafc3cd5b93765cfc8cf21493d2.js"></script><meta content="authenticity_token" name="csrf-param"/>
+<meta content="tHdFUFelwNCnYdS9B3wVb5/m/RiXMpNfMAnI0vV0TrESWn+pNVvOJCSUuvK2URHG51FhljxNuf19GZo0GSaziQ==" name="csrf-token"/><link href="/assets/favicon.ico" rel="shortcut icon"/>
+</head><body><!--[if IE]><style>.notify-no-support-browser {display: block !important;</style><![endif]--><div class="notify-no-support-browser">お使いのブラウザのバージョンのサポートが終了しました。最新のブラウザにアップデート、または<a href="https://www.google.co.jp/chrome/browser/desktop/">Google Chrome</a>をお使い下さい。</div><div class="wrapper" id="wrapper">
+<div id="header_title">
+<h1>求人検索 | IT/Web業界の求人・採用情報に強い転職サイトGreen</h1>
+</div>
+<div id="header">
+<div id="header_left">
+<p id="hd_h1"><a href="/" title="求人検索　転職サイトGreen（グリーン）">求人検索　転職サイトGreen（グリーン）</a></p>
+<ul id="g_menu">
+<li id="gm_srch_on">
+<a href="/search">求人を探す</a>
+</li>
+<li id="gm_new">
+<a href="/new">新着求人</a>
+</li>
+<li id="gm_list">
+<a href="/favorites/simple?sort=only_client_for_user">気になるリスト</a>
+</li>
+<li id="gm_msg">
+<a href="/messages">メッセージ</a>
+</li>
+<li>
+<div class="search-form__header"><input class="js-search_keyword" id="js-keyword" name="js-keyword" placeholder="キーワード、職種、企業名など" type="text" value=""/><button id="js-global_menu_search_button" name="button" type="submit"><span></span></button><end></end></div>
+</li>
+</ul>
+</div>
+<div id="header_right">
+<ul id="r_menu">
+<li><a class="lnk" href="/login" rel="nofollow">ログイン</a></li>
+<li><a class="lnk" href="/registrations/new?lid=head_lnk_reg" id="js-global_menu_reg">会員登録</a></li>
+<li><a class="lnk" href="https://www2.green-japan.com/lp?utm_source=green&amp;utm_medium=referral&amp;utm_content=head_lnk" id="requestsLnk">採用ご担当者様へ</a></li>
+</ul>
+</div>
+</div>
+<div class="content" id="content"><!--パンくず-->
+<ul id="pan">
+<li><a href="/">転職・求人サイトGreen</a></li><li class="pan_next"> </li><li>求人を探す</li>
+</ul>
+<!--パンくず END-->
+<input id="user_favorite_ids" type="hidden" value="[]"/>
+<form accept-charset="UTF-8" action="/search_post" class="new_user_search" id="new_user_search" method="post"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="EPr32eP2CAlzTWMNCTmSrL2h6RLA4dyPqmKJ5afkJDD5yy+/Vvz8zNgOJQUCJeyJU+2iYTFHGZIVB1p9Cni1TA=="/>
+<div id="srchLft">
+<div class="search-btn-area search_btn_area" id="js-search_btn_area">
+<div class="search-coutn-box">
+<span class="search_job_count" id="search_job_count"></span>件ヒットしました。
+      </div>
+<button class="btn-orange">
+<p class="mb0" id="js-real_search_btn">検索する</p>
+</button>
+</div>
+<div class="srch-box-mask"><span class="black"></span><span class="white"></span></div>
+<div class="js-srch-box-wrap srch-box-wrap">
+<div class="srch-box">
+<button class="srch-close-btn" id="srchCloseBtn" type="button">
+<span class="black"></span>
+<span class="white"></span>
+</button>
+<div class="srch-form">
+<input id="tag_ids" name="tag_ids" type="hidden"/>
+<div class="form-box">
+<div class="default_search_condition_alert"></div>
+<h3>職種大分類</h3>
+<select id="job_high" multiple="multiple" name="user_search[user_search_job_high_types_attributes][][job_type_id]" size="10"><option selected="selected" value="190">エンジニア・技術職（システム/ネットワーク）</option>
+<option value="160">クリエイティブ職（Web）</option>
+<option value="170">クリエイティブ職（ゲーム/マルチメディア）</option>
+<option value="110">企画・マーケティング職</option>
+<option value="100">営業職</option>
+<option value="230">経営・CxO職</option>
+<option value="120">経理・管理・バックオフィス職</option>
+<option value="130">アシスタント・事務職・オフィスワーク</option>
+<option value="140">サービス職（人材/店舗/医療）</option>
+<option value="150">専門職（金融/不動産/コンサルタント/士業）</option>
+<option value="200">エンジニア・技術職（電気/電子/機械/半導体）</option>
+<option value="220">建築設計・土木・プラント職</option></select>
+</div>
+<div class="form-box">
+<h3>職種小分類</h3>
+<select id="job_low" multiple="multiple" name="user_search[user_search_job_low_types_attributes][][job_type_id]" size="10"><option selected="selected" value="190100">システム開発（Web/オープン系）</option>
+<option value="190102">システム開発（モバイル系）</option>
+<option value="190110">システム開発（汎用系）</option>
+<option value="190120">システム開発（制御・組み込み）</option>
+<option value="190160">ネットワーク/サーバ監視・運用・保守・技術サポート</option>
+<option value="190150">ネットワーク/サーバ設計・構築</option>
+<option value="190140">パッケージソフト・ミドルウェア開発</option>
+<option value="190130">プロジェクトマネージャー（PM）・リーダー</option>
+<option value="190180">社内情報システムエンジニア（社内SE）</option>
+<option value="190200">プロダクトマネージャー</option>
+<option value="190170">ITコンサルタント・プリセールス</option>
+<option value="190210">データサイエンティスト</option>
+<option value="190190">その他システム関連</option></select>
+<!--<div id="job_low_loading"></div>-->
+</div>
+<div class="form-box">
+<h3>勤務地</h3>
+<select id="area_id" multiple="multiple" name="user_search[user_search_areas_attributes][][area_id]" size="10"><option selected="selected" value="13">東京都</option>
+<option value="14">神奈川県</option>
+<option value="12">千葉県</option>
+<option value="11">埼玉県</option>
+<option value="27">大阪府</option>
+<option value="28">兵庫県</option>
+<option value="26">京都府</option>
+<option value="23">愛知県</option>
+<option disabled="disabled" value="-------">-------</option>
+<option value="1">北海道</option>
+<option value="2">青森県</option>
+<option value="3">岩手県</option>
+<option value="4">宮城県</option>
+<option value="5">秋田県</option>
+<option value="6">山形県</option>
+<option value="7">福島県</option>
+<option value="8">茨城県</option>
+<option value="9">栃木県</option>
+<option value="10">群馬県</option>
+<option value="15">新潟県</option>
+<option value="16">富山県</option>
+<option value="17">石川県</option>
+<option value="18">福井県</option>
+<option value="19">山梨県</option>
+<option value="20">長野県</option>
+<option value="21">岐阜県</option>
+<option value="22">静岡県</option>
+<option value="24">三重県</option>
+<option value="25">滋賀県</option>
+<option value="29">奈良県</option>
+<option value="30">和歌山県</option>
+<option value="31">鳥取県</option>
+<option value="32">島根県</option>
+<option value="33">岡山県</option>
+<option value="34">広島県</option>
+<option value="35">山口県</option>
+<option value="36">徳島県</option>
+<option value="37">香川県</option>
+<option value="38">愛媛県</option>
+<option value="39">高知県</option>
+<option value="40">福岡県</option>
+<option value="41">佐賀県</option>
+<option value="42">長崎県</option>
+<option value="43">熊本県</option>
+<option value="44">大分県</option>
+<option value="45">宮崎県</option>
+<option value="46">鹿児島県</option>
+<option value="47">沖縄県</option>
+<option value="99">海外</option></select>
+</div>
+<div class="form-box">
+<h3>年収</h3>
+<select id="salary_bottom" name="user_search[salary_bottom_id]"><option value="">特に指定しない</option><option value="300">300万円</option>
+<option value="350">350万円</option>
+<option value="400">400万円</option>
+<option value="450">450万円</option>
+<option value="500">500万円</option>
+<option value="550">550万円</option>
+<option value="600">600万円</option>
+<option value="650">650万円</option>
+<option value="700">700万円</option>
+<option value="750">750万円</option>
+<option value="800">800万円</option>
+<option value="850">850万円</option>
+<option value="900">900万円</option>
+<option value="950">950万円</option>
+<option value="1000">1000万円</option></select> 以上
+  </div>
+<div class="form-box">
+<h3>業界大分類</h3>
+<select id="industry_high" multiple="multiple" name="user_search[user_search_industry_high_types_attributes][][industry_type_id]" size="10"><option value="100">IT/Web・通信・インターネット系</option>
+<option value="110">マスコミ・エンターテイメント・メディア系</option>
+<option value="120">サービス系</option>
+<option value="130">製造・メーカー系</option>
+<option value="140">コンサルティング・リサーチ</option>
+<option value="150">商社（卸売）・流通・小売り系</option>
+<option value="160">金融・保険系</option>
+<option value="170">不動産・建設系</option>
+<option value="180">その他</option></select>
+</div>
+<div class="form-box">
+<h3>業界小分類</h3>
+<select id="industry_low" multiple="multiple" name="user_search[user_search_industry_low_types_attributes][][industry_type_id]" size="10"></select>
+<!--<div id="industry_low_loading"></div>-->
+</div>
+<div class="form-box">
+<h3>従業員数</h3>
+<select id="workers" name="user_search[employees]"><option value=""></option><option value="10">10</option>
+<option value="30">30</option>
+<option value="50">50</option>
+<option value="100">100</option>
+<option value="300">300</option>
+<option value="500">500</option>
+<option value="1000">1000</option></select> 人
+    <label><input checked="checked" id="workers_range_type_upper_1" name="user_search[employees_over_or_under]" type="radio" value="1"/>以上</label>
+<label><input id="workers_range_type_lower_0" name="user_search[employees_over_or_under]" type="radio" value="0"/>以下</label>
+</div>
+<div class="form-box">
+<h3>設立年数</h3>
+<select id="passed_years" name="user_search[establish_yyyy]"><option value=""></option><option value="1">1</option>
+<option value="3">3</option>
+<option value="5">5</option>
+<option value="10">10</option>
+<option value="20">20</option>
+<option value="30">30</option>
+<option value="50">50</option></select> 年
+    <label><input checked="checked" id="user_search[passed_year_range_type]" name="user_search[establish_yyyy_before_or_after]" type="radio" value="1"/>以上</label>
+<label><input id="user_search[passed_year_range_type]" name="user_search[establish_yyyy_before_or_after]" type="radio" value="0"/>以下</label>
+</div>
+<div class="form-box">
+<h3>求人に関する条件</h3>
+<select id="job_feature" multiple="multiple" name="user_search[user_search_job_features_attributes[][job_feature_id]"><option value="1">急募求人</option>
+<option value="2">未経験可</option>
+<option value="3">転勤なし</option>
+<option value="4">学歴不問</option>
+<option value="5">服装自由</option>
+<option value="6">語学を活かす</option>
+<option value="7">採用枠5名以上</option></select>
+</div>
+<div class="form-box">
+<h3>企業に関する条件</h3>
+<select id="company_feature" multiple="multiple" name="user_search[user_search_company_features_attributes][][company_feature_id]"><option value="1">外資系</option>
+<option value="2">上場</option>
+<option value="3">上場を目指す</option>
+<option value="4">平均年齢20代</option>
+<option value="5">自社サービス製品あり</option>
+<option value="6">シェアトップクラス</option>
+<option value="7">グローバルに活動</option>
+<option value="8">残業少なめ</option></select>
+</div>
+<div class="form-box">
+<h3>その他</h3>
+<label><input id="user_search_new_flg" name="user_search[new_flg]" type="checkbox" value="1"/>新着求人</label><br/>
+</div>
+<div class="form-box">
+<h3>キーワード</h3>
+<input class="mb2" id="keyword" name="user_search[keyword]" type="text" value=""/><br/>
+<label class="f10"><input id="user_search_company_name_only_flg" name="user_search[company_name_only_flg]" type="checkbox" value="1"/>社名のみで検索</label>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="js-rslt-head rslt-head rslt-head-moving">
+<div class="rslt-head-back">
+<div class="rslt-count-box">
+      検索結果<span id="client_count"></span>企業<span id="job_count"></span>求人
+    </div>
+<div class="pagers" prev_label="&lt;"><span class="previous_page disabled">＜</span> <em class="current">1</em> <a href="/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=2" rel="next">2</a> <a href="/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=3">3</a> <a href="/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=4">4</a> <a href="/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=5">5</a> <span class="gap">...</span> <a href="/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=170">170</a> <a href="/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=171">171</a> <a class="next_page" href="/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=2" rel="next">&gt;</a></div>
+</div>
+</div>
+</input></form>
+<div id="srchRgt">
+<a class="js-desktop-banner-impression" data-client-id="859" href="/premium_interviews/neocareer/interview.html" style="width: 940px; box-sizing: border-box; display: block; padding: 20px 0 0; margin: 40px auto 0px;" target="_blank">
+<span style="color:#555">PR</span>
+<img alt="Bnr int 01" src="https://www.green-japan.com/assets/contents/premium_interview/neocareer/bnr_int_01-c99a423210df7f2abfd23c342d143fc06b4bd9c8b8968ea8c3a231a0ad430f76.jpg" style="width:100%"/>
+</a>
+<script type="text/javascript">
+$(function(){
+  $('#mmg_regist_link').toggle(
+    function(){
+      $('#mmg_regist_content').fadeIn(300);
+    },
+    function(){
+      $('#mmg_regist_content').fadeOut(300);
+    }
+  );
+  $("#mmg_regist").find("input[type='submit']").click(function(e){
+    e.preventDefault();
+    $.ajax({
+      type:'POST',
+      url: '/apis/regist_mmg_user',
+      data: $('#new_user_search').serialize()+"&"+$('#form_mmg_user').serialize(),
+      success: function(response, response_status) {
+        if(response.result == "success"){
+          $('#mmg_regist').animate({height:0,marginTop:0,marginBottom:0,opacity:0},300);
+          $('#mmg_regist_complete').delay(100).fadeIn(300).delay(6000).fadeOut(1000);
+        }else if(response.result == "registed"){
+          $('#mmg_regist').animate({height:0,marginTop:0,marginBottom:0,opacity:0},300);
+          $('#mmg_registed').delay(100).fadeIn(300);
+        }else{
+          $("#mmg_regist").find(".error_area").text(response.messages);
+        }
+      }
+    });
+  });
+  setTextDesc();
+  $('input[type="submit"]').click(function(){
+    removeSubmitDesc();
+  });
+});
+function setTextDesc(){
+  $('#mmg_user_mail').each(function(){initTextboxWithDesc($(this), 'メールアドレスを入力');});
+}
+function initTextboxWithDesc(input_obj, text){
+  setDesc(input_obj, text);
+  input_obj.focus(function(e){removeDesc(input_obj);});
+  input_obj.blur(function(e){setDesc(input_obj, text);});
+}
+function removeDesc(input_obj){
+  if(input_obj.data('desc')==true){
+    input_obj.removeClass('description');
+    input_obj.data('desc', null);
+    input_obj.val('');
+  }
+}
+function setDesc(input_obj, text){
+  if(input_obj.val().length==0||input_obj.val()==text){
+    input_obj.addClass('description');
+    input_obj.data('desc', true);
+    input_obj.val(text);
+  }
+}
+function removeSubmitDesc(){
+  if($('#mmg_user_mail').val() == 'メールアドレスを入力'){ $('#mmg_user_mail').val(''); }
+}
+</script>
+<div id="mmg_regist_complete" style="display:none;">
+  メール通知の登録が完了しました。<br/>
+  設定内容の確認・変更・キャンセル方法は確認メールをご参照ください。
+</div>
+<div id="mmg_registed" style="display:none;">
+  このアドレスは既に登録されています。<br/>
+<a href="/login">こちら</a>よりログイン後に検索条件を登録してください。
+</div>
+<div class="srch-rslt">
+<script>
+            count = 171;
+            </script>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/38729" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">サーバーサイドエンジニア（自社キャラクターサービス開発）</div>
+<span class="update">2020/05/27 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">【サーバーサイドエンジニア】自社キャラクター型AIパートナーの会話内容や振る舞いを決定するための「頭脳」開発に取り組むサーバーサイドエンジニア</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/4184/400/341907);"></div>
+<div class="photo-element" style="background-image:url(/photo/4184/400/345764);"></div>
+<div class="photo-element" style="background-image:url(/photo/4184/400/298991);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            500万円〜850万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">C#</span>
+<span class="code-tag">C</span>
+<span class="code-tag">C++</span>
+<span class="code-tag">ASP</span>
+<span class="code-tag">ASP.NET</span>
+<span class="code-tag">SQL</span>
+<span class="code-tag">PHP</span>
+<span class="code-tag">Ruby</span>
+<span class="code-tag">Java</span>
+<span class="code-tag">Python</span>
+<span class="code-tag">Go</span>
+<span class="code-tag">Node.js</span>
+<span class="code-tag">Android</span>
+<span class="code-tag">AWS</span>
+<span class="code-tag">Azure</span>
+<span class="code-tag">gcp</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">◆未来の体験を実現するために
+キャラクターと暮らす体験を全ての人へ届けるために、当社では複数の分野でチャレンジをしています。
+その中の一つが、自社のキャラクター型AIパートナー「逢妻ヒカリ」の開発・運営です。
+3DCGのキャラクターとAI技術を組み合わせ、キャラクターAIが人間のパートナーとして日々の会話を通じて癒しを与える体験を作り出しており、... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">Gatebox 株式会社</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2014年02月</span>
+<span>従業員数 21人</span>
+<span>平均年齢35.5歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（Web/オープン系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>マスコミ・エンターテイメント・メディア系</li>
+<li> &gt; </li>
+<li>ゲーム・エンタメ</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>急募求人！</span></li>
+<li><span>転勤なし！</span></li>
+<li><span>学歴不問！</span></li>
+<li><span>服装自由！</span></li>
+<li><span>自社サービス製品あり</span></li>
+<li><span>シェアトップクラス</span></li>
+<li><span>グローバルに活動</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 38729">
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer38729">気になる！</button>
+</div>
+</div>
+</a>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/104998" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">iOSアプリ開発エンジニア　Androidアプリ開発エンジニア</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">☆オンライン面接OK☆ガジェット連携アプリ開発やBtoC向けのアプリ開発に挑戦してみませんか！【スマホアプリ開発エンジニア】</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/5508/400/234630);"></div>
+<div class="photo-element" style="background-image:url(/photo/5508/400/226751);"></div>
+<div class="photo-element" style="background-image:url(/photo/5508/400/226782);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            600万円〜800万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">Objective-C</span>
+<span class="code-tag">PHP</span>
+<span class="code-tag">Java</span>
+<span class="code-tag">Python</span>
+<span class="code-tag">Swift</span>
+<span class="code-tag">React</span>
+<span class="code-tag">iOS</span>
+<span class="code-tag">Android</span>
+<span class="code-tag">AWS</span>
+<span class="code-tag">Kotlin</span>
+<span class="code-tag">IoT</span>
+<span class="code-tag">angular</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">一人一台持っているのが当たり前になった、スマートフォン。
+スマートフォン1台で出来ることが増え、人々の生活になくてはならない
+生活必需品の一部とまで進化しました…！
+
+そんな人々の生活や願いを叶えるアプリを私たちと一緒に作りませんか！
+
+また、プライムポジションで最上流工程から顧客と一緒に開発していくスタイルによって、アイデアを積極的に発信... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">株式会社 Blue Star</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2011年07月</span>
+<span>従業員数 21人</span>
+<span>平均年齢29.0歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（モバイル系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>IT/Web・通信・インターネット系</li>
+<li> &gt; </li>
+<li>インターネット/Webサービス・ASP</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>急募求人！</span></li>
+<li><span>転勤なし！</span></li>
+<li><span>服装自由！</span></li>
+<li><span>採用枠5名以上！</span></li>
+<li><span>平均年齢20代</span></li>
+<li><span>残業少なめ</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 104998">
+<div class="btn-area--left">
+<div class="card-info__btn-trigger js-card-info__btn-trigger">条件に合ったBlue Starの他の求人（10件）<span class="caret"></span></div>
+</div>
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer104998">気になる！</button>
+</div>
+</div>
+</a>
+<ul class="card-info__more-list js-card-info__more-list">
+<li class="clearfix card-info__more-list__item">
+<div class="92492">
+<a class="base-truncate card-info__more-list__item__link" href="/job/92492" target="_blank">
+            【オンライン面談OK！】理念は『成長』BlueStarは、エンジニアの成長を一番に考えています。
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer92492">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="100524">
+<a class="base-truncate card-info__more-list__item__link" href="/job/100524" target="_blank">
+            オンライン面接OK！【リーダー候補】☆Webエンジニア☆27歳の若手リーダーも活躍中！若手でもマネジメントスキルが付けられる！【平均残業10時間】
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer100524">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="79825">
+<a class="base-truncate card-info__more-list__item__link" href="/job/79825" target="_blank">
+            ☆オンライン面談OK☆【開発エンジニア】今こそSPA開発を身につけ、これからのエンジニアになろう！
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer79825">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="63964">
+<a class="base-truncate card-info__more-list__item__link" href="/job/63964" target="_blank">
+            【Web系エンジニア（業務系からの転身も歓迎）】楽天やリクルート、GMOなどで活躍したメンバー★20代・30代のみの若い組織
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer63964">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="84503">
+<a class="base-truncate card-info__more-list__item__link" href="/job/84503" target="_blank">
+            ☆オンライン面談OK☆【iOSアプリ開発エンジニア】BtoCのイケてるアプリをつくろう！
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer84503">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item js-more-open">
+<span class="js-more-open card-info__more-list__item__link--no-bold">もっと見る</span>
+</li>
+<li class="clearfix card-info__more-list__item--hidden">
+<a class="base-truncate card-info__more-list__item__link" href="/job/67401" target="_blank">
+            ★履歴書・職務経歴書不要★【開発エンジニア】ワークライフバランスとスキルアップを両立！　平均残業10時間以内
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer67401">気になる！</button>
+</li>
+<li class="clearfix card-info__more-list__item--hidden">
+<a class="base-truncate card-info__more-list__item__link" href="/job/84504" target="_blank">
+            ☆オンライン面談OK☆【Androidアプリ開発エンジニア】BtoCのイケてるアプリをつくろう！
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer84504">気になる！</button>
+</li>
+<li class="clearfix card-info__more-list__item--hidden">
+<a class="base-truncate card-info__more-list__item__link" href="/job/63787" target="_blank">
+            ☆オンライン面談OK☆【Web系エンジニア（業務系からの転身も歓迎）】最上流から開発・リリースまで一貫した経験を！
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer63787">気になる！</button>
+</li>
+<li class="clearfix card-info__more-list__item--hidden">
+<a class="base-truncate card-info__more-list__item__link" href="/job/92543" target="_blank">
+            ☆オンライン面接☆【リーダー候補】将来はエンジニアの育成にも携わりたい！ぜひ、BlueStarで挑戦してみませんか？
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer92543">気になる！</button>
+</li>
+<li class="clearfix card-info__more-list__item--hidden">
+<a class="base-truncate card-info__more-list__item__link" href="/job/102249" target="_blank">
+            ☆オンライン面接OK☆【平均残業10時間】もう、エナジードリンクに頼るのはやめよう！【有休消化率80％以上！】
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer102249">気になる！</button>
+</li>
+</ul>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/105445" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">インストラクター（Microsoft）</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">【◎講師未経験者歓迎◎】ITインストラクター（Microsoft 365 (Office 365)/Windows Server）</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/2485/400/239058);"></div>
+<div class="photo-element" style="background-image:url(/photo/2485/400/206671);"></div>
+<div class="photo-element" style="background-image:url(/photo/2485/400/239054);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            400万円〜600万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">Azure</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">Microsoft 認定講師として、Microsoft 365 (Office 365) / Windows Server 関連の研修の実施
+お持ちのスキルに応じて上記以外の研修を実施いただくこともあります。
+
+【具体的な業務内容】
+・研修の実施にあたり、研修の準備を行います（ご自身だけでなく必要に応じて他講師の準備も行います）。
+・引き合い... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">トレノケート 株式会社（旧名：グローバルナレッジネットワーク株式会社）</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 1995年12月</span>
+<span>従業員数 100人</span>
+<span>平均年齢-歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>ネットワーク/サーバ設計・構築</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>サービス系</li>
+<li> &gt; </li>
+<li>人材サービス（紹介/派遣/教育/研修）</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>転勤なし！</span></li>
+<li><span>グローバルに活動</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 105445">
+<div class="btn-area--left">
+<div class="card-info__btn-trigger js-card-info__btn-trigger">条件に合ったトレノケート 株式会社（旧名：グローバルナレッジネットワーク株式会社）の他の求人（2件）<span class="caret"></span></div>
+</div>
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer105445">気になる！</button>
+</div>
+</div>
+</a>
+<ul class="card-info__more-list js-card-info__more-list">
+<li class="clearfix card-info__more-list__item">
+<div class="68453">
+<a class="base-truncate card-info__more-list__item__link" href="/job/68453" target="_blank">
+            【未経験者歓迎！】ITインストラクター　～Microsoft（Azure分野/Windows Server）～
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer68453">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="105439">
+<a class="base-truncate card-info__more-list__item__link" href="/job/105439" target="_blank">
+            【◎講師未経験者歓迎◎】ITインストラクター（Google Cloud Platform認定トレーニング）
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer105439">気になる！</button>
+</div>
+</li>
+</ul>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/105575" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">開発エンジニア（東京）</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">【開発エンジニア（東京）】東京勤務 画像処理プログラマ：医療業界向け自社パッケージ</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/7176/400/349389);"></div>
+<div class="photo-element" style="background-image:url(/photo/7176/400/349387);"></div>
+<div class="photo-element" style="background-image:url(/photo/7176/400/349388);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            500万円〜1500万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">C#</span>
+<span class="code-tag">C</span>
+<span class="code-tag">C++</span>
+<span class="code-tag">SQL</span>
+<span class="code-tag">jQuery</span>
+<span class="code-tag">oracle</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">【概要】
+画像解析エンジンの開発
+
+【具体的な仕事内容】
+■既存医療用システムへの新機能の要件定義～実装
+■新バージョンの新機能の要件定義～実装
+■医療要件定義用システムの新サービスに向けた～実装
+
+【開発環境】
+■開発言語：C#／C++
+■フレームワーク：NETframewaok／Directx／OpenGL／Jquery
+■O... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">株式会社 エクセル・クリエイツ</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2004年03月</span>
+<span>従業員数 70人</span>
+<span>平均年齢32.0歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（Web/オープン系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>IT/Web・通信・インターネット系</li>
+<li> &gt; </li>
+<li>ソフトウェア/パッケージベンダ</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 105575">
+<div class="btn-area--left">
+<div class="card-info__btn-trigger js-card-info__btn-trigger">条件に合ったエクセル・クリエイツの他の求人（1件）<span class="caret"></span></div>
+</div>
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer105575">気になる！</button>
+</div>
+</div>
+</a>
+<ul class="card-info__more-list js-card-info__more-list">
+<li class="clearfix card-info__more-list__item">
+<div class="105577">
+<a class="base-truncate card-info__more-list__item__link" href="/job/105577" target="_blank">
+            【開発エンジニア（東京）】東京勤務 業務アプリケーションプログラマ：医療業界向け自社パッケージ
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer105577">気になる！</button>
+</div>
+</li>
+</ul>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/105578" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">Webエンジニア</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">【Webエンジニア】新規サービスを担当！</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/7170/400/348395);"></div>
+<div class="photo-element" style="background-image:url(/photo/7170/400/348387);"></div>
+<div class="photo-element" style="background-image:url(/photo/7170/400/348386);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            400万円〜600万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">JavaScript</span>
+<span class="code-tag">Python</span>
+<span class="code-tag">Django</span>
+<span class="code-tag">AWS</span>
+<span class="code-tag">MySQL</span>
+<span class="code-tag">python3</span>
+<span class="code-tag">vue.js</span>
+<span class="code-tag">gcp</span>
+<span class="code-tag">nuxt.js</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">【概要】
+建築設計支援を行うWebサービスの開発を行っており、要件定義・設計、開発、テストに至る全ての開発工程に携わってもらいます。
+フルスタックエンジニアとの業務分担になるため、フロントエンド、バックエンド、どちらかを担当してもらうか、場合によっては両方触ってもらうことになるかと思います。
+インフラも触る機会もあるので、インフラに関する知識もあ... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">合同会社 AMDlab</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2019年01月</span>
+<span>従業員数 3人</span>
+<span>平均年齢29.0歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（Web/オープン系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>IT/Web・通信・インターネット系</li>
+<li> &gt; </li>
+<li>ITコンサルティング</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>急募求人！</span></li>
+<li><span>転勤なし！</span></li>
+<li><span>服装自由！</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 105578">
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer105578">気になる！</button>
+</div>
+</div>
+</a>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/105678" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">モバイルアプリエンジニア（プロジェクトリーダー候補）</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">【モバイルアプリエンジニア（PL候補）】成長中ハイブランドリセールECのアプリ展開をリード！ゼロイチフェーズで活躍するモバイルアプリエンジニアを募集</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/3078/400/344022);"></div>
+<div class="photo-element" style="background-image:url(/photo/3078/400/325630);"></div>
+<div class="photo-element" style="background-image:url(/photo/3078/400/349542);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            540万円〜810万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">JavaScript</span>
+<span class="code-tag">PHP</span>
+<span class="code-tag">Dart</span>
+<span class="code-tag">CakePHP</span>
+<span class="code-tag">jQuery</span>
+<span class="code-tag">iOS</span>
+<span class="code-tag">Android</span>
+<span class="code-tag">AWS</span>
+<span class="code-tag">MySQL</span>
+<span class="code-tag">Jenkins</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">自社運営するハイブランドリセールECサービスにおけるスマートフォン版アプリの開発・運用・保守を、PL候補としてリードしていただくポジションです！
+
+＜具体的には…＞
+■新規スマートフォン版アプリの開発
+■外部ベンダーコントロール
+■開発進捗・スケジュール管理
+■リリース管理
+■運用・保守
+■プロジェクト管理
+■コードレビュー
+
+【... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">株式会社 アクティブソナー</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2012年11月</span>
+<span>従業員数 83人</span>
+<span>平均年齢32.0歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（モバイル系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>IT/Web・通信・インターネット系</li>
+<li> &gt; </li>
+<li>インターネット/Webサービス・ASP</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>急募求人！</span></li>
+<li><span>転勤なし！</span></li>
+<li><span>学歴不問！</span></li>
+<li><span>服装自由！</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 105678">
+<div class="btn-area--left">
+<div class="card-info__btn-trigger js-card-info__btn-trigger">条件に合ったアクティブソナーの他の求人（2件）<span class="caret"></span></div>
+</div>
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer105678">気になる！</button>
+</div>
+</div>
+</a>
+<ul class="card-info__more-list js-card-info__more-list">
+<li class="clearfix card-info__more-list__item">
+<div class="94068">
+<a class="base-truncate card-info__more-list__item__link" href="/job/94068" target="_blank">
+            【社内初のポジション｜モバイルアプリエンジニア】ユーザーライクのアプリ開発をリード！成長中ハイブランドリセールECのモバイルアプリエンジニアを募集
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer94068">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="82276">
+<a class="base-truncate card-info__more-list__item__link" href="/job/82276" target="_blank">
+            【Webエンジニア（PL候補）】DevOps＋アジャイルでスピーディな開発を実現！成長中ECプラットフォームの自社開発をリードするWebエンジニアを募集！
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer82276">気になる！</button>
+</div>
+</li>
+</ul>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/105729" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">【開発エンジニア】PHP・サーバサイド</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">【開発エンジニア】エンタメ×テックを実現するエンジニアを募集中【リモートワーク・副業OK！】</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/7027/400/338685);"></div>
+<div class="photo-element" style="background-image:url(/photo/7027/400/338695);"></div>
+<div class="photo-element" style="background-image:url(/photo/7027/400/338683);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            400万円〜800万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">JavaScript</span>
+<span class="code-tag">PHP</span>
+<span class="code-tag">Java</span>
+<span class="code-tag">R</span>
+<span class="code-tag">AWS</span>
+<span class="code-tag">docker</span>
+<span class="code-tag">MySQL</span>
+<span class="code-tag">HTML5</span>
+<span class="code-tag">nginx</span>
+<span class="code-tag">Jenkins</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">【職場の魅力】
+ - 自由度の高い勤務時間と勤務場所
+形だけではない個人で勤務時間を調整できる裁量労働制（社員の平均残業時間は1日1時間未満）を採用していることとリモートワークの可能な職場がそろっているため、個人のパフォーマンスが最大に発揮できる環境で働くことができます。
+
+ - 開発技術の理解とサポート
+勤務時間の一定割合を挑戦的な技術開発... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">株式会社 ブックリスタ</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2010年07月</span>
+<span>従業員数 80人</span>
+<span>平均年齢-歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（Web/オープン系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>IT/Web・通信・インターネット系</li>
+<li> &gt; </li>
+<li>インターネット/Webサービス・ASP</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>転勤なし！</span></li>
+<li><span>学歴不問！</span></li>
+<li><span>服装自由！</span></li>
+<li><span>自社サービス製品あり</span></li>
+<li><span>残業少なめ</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 105729">
+<div class="btn-area--left">
+<div class="card-info__btn-trigger js-card-info__btn-trigger">条件に合ったブックリスタの他の求人（3件）<span class="caret"></span></div>
+</div>
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer105729">気になる！</button>
+</div>
+</div>
+</a>
+<ul class="card-info__more-list js-card-info__more-list">
+<li class="clearfix card-info__more-list__item">
+<div class="100055">
+<a class="base-truncate card-info__more-list__item__link" href="/job/100055" target="_blank">
+            【開発エンジニア】リモートワーク・副業OK！電子書籍サービスの開発メンバー
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer100055">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="101342">
+<a class="base-truncate card-info__more-list__item__link" href="/job/101342" target="_blank">
+            【AWSインフラエンジニア】リモートワーク・副業OK！電子書籍サービスの開発メンバー
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer101342">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="102169">
+<a class="base-truncate card-info__more-list__item__link" href="/job/102169" target="_blank">
+            【データエンジニア】リモートワーク・副業OK！施策にこだわるデータエンジニア
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer102169">気になる！</button>
+</div>
+</li>
+</ul>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/105742" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">バックエンド開発エンジニア（東京勤務）</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">バックエンドエンジニア【自社開発SaaSサービス「SONAR」の開発エンジニア募集】話題のHRtechサービス・フレックス勤務OK！　</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/3471/400/278252);"></div>
+<div class="photo-element" style="background-image:url(/photo/3471/400/332097);"></div>
+<div class="photo-element" style="background-image:url(/photo/3471/400/332098);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            400万円〜800万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">C#</span>
+<span class="code-tag">ASP</span>
+<span class="code-tag">ASP.NET</span>
+<span class="code-tag">React</span>
+<span class="code-tag">TypeScript</span>
+<span class="code-tag">Azure</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">自社サービスである、HRtechのSaaSサービス「SONAR」のバックエンド開発業務をお任せします。
+C#を用いて、フロントエンドチームとコミュニケーションをとりながら開発を進めていただきます。
+【当社エンジニアチームについて】
+エンジニアはフロントエンド・バックエンド・新規技術検証のチームに分かれております。
+拠点は東京・徳島と分かれており... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">株式会社 インフォデックス</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2000年03月</span>
+<span>従業員数 100人</span>
+<span>平均年齢-歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（Web/オープン系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>IT/Web・通信・インターネット系</li>
+<li> &gt; </li>
+<li>インターネット/Webサービス・ASP</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>上場を目指す</span></li>
+<li><span>自社サービス製品あり</span></li>
+<li><span>シェアトップクラス</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 105742">
+<div class="btn-area--left">
+<div class="card-info__btn-trigger js-card-info__btn-trigger">条件に合ったインフォデックスの他の求人（6件）<span class="caret"></span></div>
+</div>
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer105742">気になる！</button>
+</div>
+</div>
+</a>
+<ul class="card-info__more-list js-card-info__more-list">
+<li class="clearfix card-info__more-list__item">
+<div class="95951">
+<a class="base-truncate card-info__more-list__item__link" href="/job/95951" target="_blank">
+            WEBサービス開発エンジニア【自社開発SaaSサービス「SONAR」の開発エンジニア募集】話題のHRtechサービス・フレックス勤務OK！　
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer95951">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="102000">
+<a class="base-truncate card-info__more-list__item__link" href="/job/102000" target="_blank">
+            【社内IT企画】会社の成長を社内ITからサポートする！クラウドについてのスキル習得も可能な環境です。
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer102000">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="97496">
+<a class="base-truncate card-info__more-list__item__link" href="/job/97496" target="_blank">
+            バックエンドエンジニア【自社開発SaaSサービス「SONAR」の開発エンジニア募集】話題のHRtechサービス・フレックス勤務OK！　
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer97496">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="103834">
+<a class="base-truncate card-info__more-list__item__link" href="/job/103834" target="_blank">
+            【社内SE】会社の成長を社内インフラからサポートする！クラウドについてのスキル習得も可能な環境です。
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer103834">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="97499">
+<a class="base-truncate card-info__more-list__item__link" href="/job/97499" target="_blank">
+            【リーダー候補】フロントエンドエンジニア【自社開発SaaSサービス「SONAR」の開発エンジニア募集】話題のHRtechサービス・フレックス勤務OK！　
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer97499">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item js-more-open">
+<span class="js-more-open card-info__more-list__item__link--no-bold">もっと見る</span>
+</li>
+<li class="clearfix card-info__more-list__item--hidden">
+<a class="base-truncate card-info__more-list__item__link" href="/job/98025" target="_blank">
+            新規技術の検証エンジニア【自社開発SaaSサービス「SONAR」の開発エンジニア募集】話題のHRtechサービス・フレックス勤務OK！　
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer98025">気になる！</button>
+</li>
+</ul>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/105750" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">セキュリティ（ソフトウェア）エンジニア</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">【セキィリティエンジニア】仮想通貨所を守る、セキュリティエンジニア募集！</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/3509/400/147499);"></div>
+<div class="photo-element" style="background-image:url(/photo/3509/400/212563);"></div>
+<div class="photo-element" style="background-image:url(/photo/3509/400/297142);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            700万円〜980万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">ASP</span>
+<span class="code-tag">ASP.NET</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">当社は仮想通貨の販売所・取引所等の各種サービスプラットフォームの運営を行っており、今回の募集では以下のような業務を担当いただきます。
+
+・リリース前及び定期的な動的診断(可能であれば静的診断)の実施
+・診断結果の適切な分析、リスクレベルの判定、及び影響範囲の確認
+・適切な開発チームへの修正依頼及び修正方法の提案
+・診断を効率化するための仕組み... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">株式会社 bitFlyer</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2014年01月</span>
+<span>従業員数 150人</span>
+<span>平均年齢-歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（Web/オープン系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>IT/Web・通信・インターネット系</li>
+<li> &gt; </li>
+<li>インターネット/Webサービス・ASP</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>急募求人！</span></li>
+<li><span>服装自由！</span></li>
+<li><span>語学を活かす！</span></li>
+<li><span>上場を目指す</span></li>
+<li><span>自社サービス製品あり</span></li>
+<li><span>シェアトップクラス</span></li>
+<li><span>グローバルに活動</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 105750">
+<div class="btn-area--left">
+<div class="card-info__btn-trigger js-card-info__btn-trigger">条件に合ったbitFlyerの他の求人（2件）<span class="caret"></span></div>
+</div>
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer105750">気になる！</button>
+</div>
+</div>
+</a>
+<ul class="card-info__more-list js-card-info__more-list">
+<li class="clearfix card-info__more-list__item">
+<div class="104776">
+<a class="base-truncate card-info__more-list__item__link" href="/job/104776" target="_blank">
+            ブロックチェーン社会実装を目指すエンジニアを募集！
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer104776">気になる！</button>
+</div>
+</li>
+<li class="clearfix card-info__more-list__item">
+<div class="97511">
+<a class="base-truncate card-info__more-list__item__link" href="/job/97511" target="_blank">
+            【C#エンジニア】日本最大級の仮想通貨取引所を支える開発エンジニア募集！
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer97511">気になる！</button>
+</div>
+</li>
+</ul>
+</div>
+<div class="card-info__wrapper js-card-info__wrapper">
+<a class="js-search-result-box card-info" href="/job/105752" target="_blank">
+<div class="card-info__tag-area clearfix">
+<div class="job-offer-icon">バックエンドエンジニア</div>
+<div class="tag--pink">新着</div>
+<span class="update">2020/06/11 更新</span>
+</div>
+<div class="card-info__heading-area">
+<h3 class="card-info__heading-area__title">【Rails,Go】0→1の次へ｜規模拡大フェーズでスキルアップしたいWebエンジニア募集</h3>
+<div class="job-offer-photo-area">
+<div class="photo-element" style="background-image:url(/photo/5591/400/349526);"></div>
+<div class="photo-element" style="background-image:url(/photo/5591/400/349525);"></div>
+<div class="photo-element" style="background-image:url(/photo/5591/400/349524);"></div>
+</div>
+</div>
+<div class="card-info__detail-area">
+<ul class="job-offer-meta-tags">
+<li>
+<span class="icon-salary"></span>
+            400万円〜800万円<br/>
+</li>
+<li><span class="icon-site"></span>東京都</li>
+<li>
+<span class="icon-code"></span>
+<span class="code-tag">JavaScript</span>
+<span class="code-tag">PHP</span>
+<span class="code-tag">Ruby</span>
+<span class="code-tag">Python</span>
+<span class="code-tag">Go</span>
+<span class="code-tag">Ruby on Rails</span>
+<span class="code-tag">React</span>
+<span class="code-tag">AWS</span>
+</li>
+</ul>
+<p class="card-info__detail-area__text">8万件を超えるビジネスオーナーと約250万人の個人ユーザーが利用する予約システム「Coubic(クービック)」の設計・開発を行います。 
+大手の予約サービスとは異なり、Google・LINE・Zoomといった各種プラットフォームとの機能連携を積極的に進め、ユーザー/ビジネスオーナー両者にとって本当にスムースな予約体験を追求しています。
+
+・新規機... <span class="more-info">もっと見る</span></p>
+<div class="card-info__detail-area__box">
+<div class="card-info__detail-area__box__heading">
+<h3 class="card-info__detail-area__box__title">クービック 株式会社</h3>
+<div class="card-info__detail-area__box__sub-title">
+<span>設立年月日 2013年10月</span>
+<span>従業員数 15人</span>
+<span>平均年齢30.0歳</span>
+</div>
+</div>
+<div class="card-info__detail-area__box__body">
+<ul class="tag-heading-box--gray clearfix">
+<li>職種</li>
+<li>エンジニア・技術職（システム/ネットワーク）</li>
+<li> &gt; </li>
+<li>システム開発（Web/オープン系）</li>
+</ul>
+<ul class="tag-heading-box--gray clearfix">
+<li>業界</li>
+<li>IT/Web・通信・インターネット系</li>
+<li> &gt; </li>
+<li>Webマーケティング・ネット広告</li>
+</ul>
+</div>
+<ul class="tag-gray-area">
+<li><span>転勤なし！</span></li>
+<li><span>服装自由！</span></li>
+<li><span>上場を目指す</span></li>
+<li><span>自社サービス製品あり</span></li>
+<li><span>シェアトップクラス</span></li>
+<li><span>グローバルに活動</span></li>
+</ul>
+</div>
+</div>
+<div class="card-info__bottom-area--gray clearfix 105752">
+<div class="btn-area--left">
+<div class="card-info__btn-trigger js-card-info__btn-trigger">条件に合ったクービックの他の求人（1件）<span class="caret"></span></div>
+</div>
+<div class="btn-area--right">
+<button class="favorite_add btn-favorite btn-favorite-blue" id="offer105752">気になる！</button>
+</div>
+</div>
+</a>
+<ul class="card-info__more-list js-card-info__more-list">
+<li class="clearfix card-info__more-list__item">
+<div class="105753">
+<a class="base-truncate card-info__more-list__item__link" href="/job/105753" target="_blank">
+            オンラインレッスン需要急増に応えるSaaS！高トラフィックを支えるSREを募集
+</a> <button class="btn-blue favorite_add btn-favorite btn-favorite-blue" id="offer105753">気になる！</button>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div><div class="footer">
+<div class="footer_content">
+<div class="footer_logo">転職・求人サイト Green</div>
+<span class="footer_desc">IT・Web企業が最も多く利用する転職・求人サイト</span>
+<div class="footer_lnks">
+<div class="footer-link-title">転職・求人サイトGreen について</div>
+<ul>
+<li><a href="https://www2.green-japan.com/lp?utm_source=green&amp;utm_medium=referral&amp;utm_content=foot_lnk">成功報酬型求人サイトGreenへのご掲載はこちら</a></li>
+<li><a href="/contents/about">運営会社</a></li>
+<li><a href="https://atrae.co.jp/privacy_policy.html" target="_blank">プライバシーポリシー</a></li>
+<li><a href="https://atrae.co.jp/security_policy.html" target="_blank">セキュリティポリシー</a></li>
+<li><a href="/contents/terms">利用規約</a></li>
+<li><a href="/contents/faq">よくある質問</a></li>
+<li><a href="/contents/sitemap">サイトマップ</a></li>
+<li class="pr0 mr0 br0"><a href="/requests/report_list">採用成功事例</a></li>
+</ul>
+</div>
+<div class="footer_lnks mb10">
+<div class="footer-link-title">転職・求人サイトGreen の求人特集</div>
+<ul>
+<li><a href="/features-ranking" title="人気企業ランキング">人気企業ランキング</a></li>
+<li><a href="/features-hurried" title="急募求人特集">急募求人特集</a></li>
+<li><a href="/features-plurals" title="積極採用企業特集">積極採用企業特集</a></li>
+<li><a href="/features-early" title="設立10年以内の成長企業特集">設立10年以内の成長企業特集</a></li>
+<li><a href="/features-elect_few" title="社員数50人以下の成長企業特集">社員数50人以下の成長企業特集</a></li>
+<li class="pr0 mr0 br0"><a href="/features-hot" title="今熱いのはここ！注目の企業特集">今熱いのはここ！注目の企業特集</a></li>
+</ul>
+</div>
+<address>転職は【Green・グリーン】優良企業、IT系の求人情報・転職情報満載の転職サイト     Copyright© Atrae, Inc. All Right Reserved.</address>
+</div>
+</div>
+<div id="scrolltoTop"></div><div class="dialog_wrap" id="loginPop">
+<div class="black_back"></div>
+<div class="dialog_content">
+<div class="dialog_close"><span>×</span></div>
+<div class="login-wrap">
+<h3 class="bdb-none fwb">
+        登録して気になる機能を活用しましょう
+      </h3>
+<div class="w100p">
+<a class="btn-orange m0a d-block w320 js-btn-register-from-favorite" data-base-url="/registrations/new" href="/registrations/new">会員登録する</a>
+</div>
+<div class="facebook-login">
+<a class="btn btn-facebook w320" href="/auth/facebook">facebookで会員登録・ログイン</a>
+</div>
+<div class="js_sign_in_with_apple w320 f18" style="padding: 9px 0 0; text-align: center; margin: 0 auto;"></div>
+<h3 class="mt40 fz14 fwb lh1">すでにアカウントをお持ちの方はこちら</h3>
+<div id="login_form_box">
+<form accept-charset="UTF-8" action="https://www.green-japan.com/create" class="new_user" id="new_user" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="AGYVrc15ieqRnOe/geRELeD6E7BWJCmWFvZbINfzebgHk63fCU6BYzTRNQWXj9p1qrCt6PogEmcs5oOE1qV3ag=="/>
+<table border="0" cellpadding="0" cellspacing="0" class="no-table" id="tb_regi_login">
+<tr>
+<td width="123">メールアドレス</td>
+<td width="237">
+<input class="text_input input_login_mail" id="user_mail" name="user[mail]" size="29" type="text"/>
+</td>
+</tr>
+<tr>
+<td>パスワード</td>
+<td class="pb5">
+<input class="text_input input_login_password" id="user_password" name="user[password]" size="29" type="password"/><br/>
+<a class="fs10" href="/passwords/new" id="forgot_password" title="パスワードを忘れた方はこちら">パスワードを忘れた方はこちら</a><br/>
+<a class="fs10" href="/registrations/new?lid=from_modal" title="はじめての方はこちら">はじめての方はこちら</a>
+</td>
+</tr>
+<tr>
+<td align="center" class="f12" colspan="2">
+<input name="user[auto_login_flg]" type="hidden" value="0"/><input checked="checked" id="user_auto_login_flg" name="user[auto_login_flg]" type="checkbox" value="1"/>次回から自動でログインする<br/>
+<span class="label-check">（複数のユーザーでパソコンを共有している方はチェックをはずしてください）</span>
+</td>
+</tr>
+<input id="job_offer_id_for_modal_form" name="job_offer_id_for_modal_form" type="hidden"/>
+</table>
+<div class="mb10" id="call_btn">
+<input id="target_url" name="target_url" type="hidden" value="https://www.green-japan.com/search_key/01?case=login&amp;key=dol06b943yhp1l61vh0n&amp;keyword=&amp;page=1"/>
+<input class="btn btn-orange w320" data-disable-with="ログイン中..." id="btn_login" name="commit" type="submit" value="ログイン"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div><script src="/assets/frontend/pages/user/buttons/signInWithApple.bundle-0c37a1271c31c1e36b5cc2fc0db8bf5884b0352445e92c2ee55c724c41919be8.js"></script>
+<!-- GTM用 -->
+<script type="text/javascript">
+window.GTM = {
+  userId: "null",
+  targetFlg: "0",
+  age: "null",
+  jobTypeIds: "null",
+  jobOfferId: "",
+  requestId: "",
+  jobApplyId: "",
+  createDate:  new Date(""),
+  gender: "",
+  job: "",
+  unreadFavorites: 0,
+  joaTimes: 0,
+  favTimes: 0,
+  favReceiveTimes: 0,
+  price: 0,
+  hashedEmail: "",
+  jobOfferIdForCriteo1: 0,
+  jobOfferIdForCriteo2: 0,
+  jobOfferIdForCriteo3: 0,
+  isLogin: "False",
+  predicted_price_of_job_apply: ""
+};
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WPMKVV" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w, d, s, l, i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(), event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-WPMKVV');</script>
+<!-- End Google Tag Manager -->
+<script id="tagjs" type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=sY6N2aA";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+<iframe frameborder="0" height="1" marginheight="0" marginwidth="0" scrolling="no" src="//b.yjtag.jp/iframe?c=sY6N2aA" width="1"></iframe>
+</noscript>
+<!--　求人一覧ページタグ　-->
+<script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.criteo_q = window.criteo_q || [];
+window.criteo_q.push(
+{ event: "setAccount", account: '14551' },
+{ event: "setHashedEmail", email: '' },
+{ event: "setSiteType", type: 'd'  },
+{ event: "viewList", item: ["38729",
+                           "104998",
+                           "105445"],
+                     ui_status: 'nonregister'
+}
+);
+</script>
+</body></html>

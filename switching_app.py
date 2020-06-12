@@ -49,10 +49,10 @@ class TextWidget(Widget):
         self.text = 'リクナビ実行完了'
 
     def buttonClicked3(self):
-        # with open('rikunavi.command') as fp:
-        #     cp = subprocess.Popen(['bash rikunavi.command'], stdin=fp,text=True, cwd="/Users/shimataku/workspace/job-frontier-tool_for_mynavi",shell = True)
-        #     result = cp.communicate()
-        #     self.text = result
+        with open('rikunavi_agent.command') as fp:
+            cp = subprocess.Popen(['bash rikunavi_agent.command'], stdin=fp,text=True, cwd="/Users/shimataku/workspace/job-frontier-tool_for_mynavi",shell = True)
+            result = cp.communicate()
+            self.text = result
         self.text = 'リクナビエージェント実行完了'
 
     def buttonClicked4(self):
