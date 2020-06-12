@@ -5,6 +5,8 @@ import export
 import requests
 from bs4 import BeautifulSoup
 
+print("リクナビ検索中(150件前後予想)")
+
 # 新シートの作成
 d_today = export.createsheet()
 
