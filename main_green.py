@@ -5,7 +5,7 @@ import export_green
 import requests
 from bs4 import BeautifulSoup
 
-print("Green内検索中(500件前後予想)")
+print("Green内検索中(500件前後予想:1.5h)")
 
 # 新シートの作成
 d_today = export_green.createsheet()

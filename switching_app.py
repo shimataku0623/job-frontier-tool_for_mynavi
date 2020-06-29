@@ -30,42 +30,42 @@ class TextWidget(Widget):
         self.text = '実行中暫し待たれよ'
 
     def buttonClicked(self):
-        # with open('rikunavi.command') as fp:
-        #     cp = subprocess.Popen(['bash rikunavi.command'], stdin=fp,text=True, cwd="/Users/shimataku/workspace/job-frontier-tool_for_mynavi",shell = True)
-        #     result = cp.communicate()
-        #     self.text = result
+        with open('start_doda.command') as fp:
+            cp = subprocess.Popen(['bash start_doda.command'], stdin=fp,text=True, cwd="/Users/shimataku/Downloads/workspace/job-frontier-tool",shell = True)
+            cp.communicate()
+            #self.text = result
         #result0なら
-        self.text = 'doda実行完了'
+        #self.text = 'doda実行完了'
         #TextWidget.commonexec(self)
 
 
     def buttonClicked2(self):
         TextWidget.commonexec(self)
         with open('rikunavi.command') as fp:
-            cp = subprocess.Popen(['bash rikunavi.command'], stdin=fp,text=True, cwd="/Users/shimataku/workspace/job-frontier-tool_for_mynavi",shell = True)
-            result = cp.communicate()
-            self.text = result
+            cp = subprocess.Popen(['bash rikunavi.command'], stdin=fp,text=True, cwd="/Users/shimataku/Downloads/workspace/job-frontier-tool_for_mynavi",shell = True)
+            cp.communicate()
+            #self.text = result
         #result0なら
-        self.text = 'リクナビ実行完了'
+        #self.text = 'リクナビ実行完了'
 
     def buttonClicked3(self):
         with open('rikunavi_agent.command') as fp:
-            cp = subprocess.Popen(['bash rikunavi_agent.command'], stdin=fp,text=True, cwd="/Users/shimataku/workspace/job-frontier-tool_for_mynavi",shell = True)
-            result = cp.communicate()
-            self.text = result
-        self.text = 'リクナビエージェント実行完了'
+            cp = subprocess.Popen(['bash rikunavi_agent.command'], stdin=fp,text=True, cwd="/Users/shimataku/Downloads/workspace/job-frontier-tool_for_mynavi",shell = True)
+            cp.communicate()
+            #self.text = result
+        #self.text = 'リクナビエージェント実行完了'
 
     def buttonClicked4(self):
-        # with open('rikunavi.command') as fp:
-        #     cp = subprocess.Popen(['bash rikunavi.command'], stdin=fp,text=True, cwd="/Users/shimataku/workspace/job-frontier-tool_for_mynavi",shell = True)
-        #     result = cp.communicate()
-        #     self.text = result
-        self.text = 'green実行完了'
+        with open('green.command') as fp:
+            cp = subprocess.Popen(['bash green.command'], stdin=fp,text=True, cwd="/Users/shimataku/Downloads/workspace/job-frontier-tool_for_mynavi",shell = True)
+            cp.communicate()
+            #self.text = result
+        #self.text = 'green実行完了'
 
 class TestApp(App):
     def __init__(self, **kwargs):
         super(TestApp, self).__init__(**kwargs)
-        self.title = '起動アプリ切り替えるくん'
+        self.title = '切り替えるくん'
 
 if __name__ == '__main__':
     TestApp().run()

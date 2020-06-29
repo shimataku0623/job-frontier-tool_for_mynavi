@@ -5,7 +5,7 @@ import export_agent
 import requests
 from bs4 import BeautifulSoup
 
-print("リクナビエージェント検索中(2000件前後予想)")
+print("リクナビエージェント検索中(2000件前後予想:7.0h)")
 
 # 新シートの作成
 d_today = export_agent.createsheet()
